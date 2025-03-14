@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Git repo\\Project1-Skyline\\Project1-Skyline\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FDB0C4AD-9C3B-44AF-CCEF-86A282447C2C}|Assembly-CSharp.csproj|c:\\git repo\\project1-skyline\\project1-skyline\\assets\\scrips\\openclosepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB0C4AD-9C3B-44AF-CCEF-86A282447C2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\openclosepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FDB0C4AD-9C3B-44AF-CCEF-86A282447C2C}|Assembly-CSharp.csproj|c:\\git repo\\project1-skyline\\project1-skyline\\assets\\scrips\\cameradrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDB0C4AD-9C3B-44AF-CCEF-86A282447C2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\cameradrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OpenClosePanel.cs",
+              "DocumentMoniker": "C:\\Git repo\\Project1-Skyline\\Project1-Skyline\\Assets\\Scrips\\OpenClosePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\OpenClosePanel.cs",
+              "ToolTip": "C:\\Git repo\\Project1-Skyline\\Project1-Skyline\\Assets\\Scrips\\OpenClosePanel.cs",
+              "RelativeToolTip": "Assets\\Scrips\\OpenClosePanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:08:58.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CameraDrag.cs",
               "DocumentMoniker": "C:\\Git repo\\Project1-Skyline\\Project1-Skyline\\Assets\\Scrips\\CameraDrag.cs",
               "RelativeDocumentMoniker": "Assets\\Scrips\\CameraDrag.cs",
